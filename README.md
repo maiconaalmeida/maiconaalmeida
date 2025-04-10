@@ -1,160 +1,83 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Maicon Almeida - Data Scientist</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #121212;
-      color: #ffffff;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #4CAF50;
-    }
-    a {
-      color: #BB86FC;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .skills-list {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
-    .skill-item {
-      background-color: #1E1E1E;
-      padding: 10px 15px;
-      border-radius: 5px;
-      font-size: 14px;
-      color: #ffffff;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-    .gif {
-      float: right;
-      margin-left: 20px;
-      border-radius: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-    }
-    .quote {
-      font-style: italic;
-      text-align: center;
-      color: #BB86FC;
-      margin-top: 40px;
-    }
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      color: #888888;
-    }
-    @media (max-width: 768px) {
-      .gif {
-        float: none;
-        margin: 20px auto;
-        display: block;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <!-- Header -->
-    <h1>👋 Olá, sou <span style="color: #BB86FC;">Maicon Almeida</span></h1>
-    <p>
-      <strong>Localização:</strong> São José do Rio Preto, SP | 
-      <strong>Formação:</strong> Ciência de Dados na Universidade de Marília
-    </p>
-    <p>
-      Transformando dados em insights poderosos 🚀<br>
-      Explorando o universo do Machine Learning e Deep Learning.
-    </p>
+# 👋 Olá, sou **Maicon Almeida**
 
-    <!-- GIF Animado -->
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Data Science GIF" class="gif" width="300">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Data Science GIF" width="200" />
+</h1>
 
-    <!-- Minha Jornada -->
-    <div class="section">
-      <h2>🚀 Minha Jornada em Dados</h2>
-      <ul>
-        <li>🎓 Aprendizado contínuo na <strong>Universidade de Marília</strong>.</li>
-        <li>🔬 Atualmente explorando o universo do <strong>Machine Learning</strong> e <strong>Deep Learning</strong>.</li>
-        <li>🤝 Sempre aberto a colaborações em projetos de <strong>Data Science</strong>.</li>
-        <li>💬 Pergunte-me sobre: <strong>Python</strong>, <strong>Análise de Dados</strong> ou como começar na área.</li>
-        <li>⚡ Curiosidade: Acredito que <strong>dados são a nova poesia do século XXI</strong>!</li>
-      </ul>
-    </div>
+<p align="center">
+  Transformando dados em insights poderosos 🚀<br>
+  Explorando o universo do Machine Learning e Deep Learning.
+</p>
 
-    <!-- Minha Caixa de Ferramentas -->
-    <div class="section">
-      <h2>🛠️ Minha Caixa de Ferramentas</h2>
-      <div class="skills-list">
-        <div class="skill-item">Python</div>
-        <div class="skill-item">SQL</div>
-        <div class="skill-item">Pandas</div>
-        <div class="skill-item">NumPy</div>
-        <div class="skill-item">Tableau</div>
-        <div class="skill-item">PowerBI</div>
-        <div class="skill-item">Scikit-learn</div>
-        <div class="skill-item">TensorFlow</div>
-        <div class="skill-item">Git</div>
-        <div class="skill-item">Google Cloud</div>
-      </div>
-    </div>
+---
 
-    <!-- Estatísticas do GitHub -->
-    <div class="section">
-      <h2>📈 Minhas Estatísticas</h2>
-      <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=maiconaalmeida&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconaalmeida&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
-      </div>
-    </div>
+## 🌟 Sobre Mim
 
-    <!-- Conecte-se Comigo -->
-    <div class="section">
-      <h2>🌐 Conecte-se Comigo</h2>
-      <p>
-        <a href="https://www.linkedin.com/in/aparecidoaalmeida/" target="_blank">🔗 LinkedIn</a>
-      </p>
-    </div>
+Sou um entusiasta de **Ciência de Dados** localizado em **São José do Rio Preto, SP**. Atualmente estudo **Ciência de Dados** na **Universidade de Marília** e tenho paixão por transformar dados brutos em soluções inovadoras.
 
-    <!-- Metas para 2025 -->
-    <div class="section">
-      <h2>🎯 Metas para 2025</h2>
-      <ol>
-        <li>Desenvolver um modelo de IA aplicado à saúde.</li>
-        <li>Publicar meu primeiro artigo científico.</li>
-        <li>Dominar técnicas avançadas de processamento de linguagem natural.</li>
-        <li>Participar de competições no Kaggle.</li>
-      </ol>
-    </div>
+💬 Pergunte-me sobre:
+- **Python**, **Machine Learning**, **Análise de Dados**
+- Como começar na área de Ciência de Dados
 
-    <!-- Citação Inspiradora -->
-    <div class="quote">
-      "Os dados são como as estrelas - só precisamos aprender a conectá-los para ver o quadro completo." ✨
-    </div>
+⚡ Curiosidade: Acredito que **dados são a poesia do século XXI**!
 
-    <!-- Footer -->
-    <footer>
-      <p>© 2023 Maicon Almeida | Criado com ❤️ e Markdown/HTML</p>
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" alt="Footer Animation">
-      <p>
-        <img src="https://profile-counter.glitch.me/maiconaalmeida/count.svg" alt="Visitor Count">
-      </p>
-    </footer>
-  </div>
-</body>
-</html>
+---
+
+## 💻 Minhas Habilidades
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-SQL-green?style=for-the-badge&logo=mysql" alt="SQL">
+  <img src="https://img.shields.io/badge/-Pandas-yellow?style=for-the-badge&logo=pandas" alt="Pandas">
+  <img src="https://img.shields.io/badge/-TensorFlow-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-Tableau-purple?style=for-the-badge&logo=tableau" alt="Tableau">
+</div>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconaalmeida&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconaalmeida&layout=compact&theme=dark)
+</div>
+
+---
+
+## 🔧 Projetos Destacados
+
+### 1. **Predição de Preços de Casas**
+[Link para o Projeto](https://github.com/seu-link-para-projeto)
+
+Descrição curta do projeto. Usei Python e Scikit-learn para prever preços de casas com base em características específicas.
+
+### 2. **Análise de Sentimentos em Tweets**
+[Link para o Projeto](https://github.com/seu-link-para-projeto)
+
+Projeto para classificar sentimentos em tweets usando NLP e TensorFlow.
+
+---
+
+## 🎯 Metas para 2025
+
+1. Desenvolver um modelo de IA aplicado à saúde.
+2. Publicar meu primeiro artigo científico.
+3. Dominar técnicas avançadas de processamento de linguagem natural.
+4. Participar de competições no Kaggle.
+
+---
+
+> "Os dados são a nova matéria-prima da economia digital." — The Economist
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<a href="https://www.linkedin.com/in/aparecidoaalmeida/" target="_blank">🔗 LinkedIn</a>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn"/>
+  <p>![Visitor Count](https://profile-counter.glitch.me/maiconaalmeida/count.svg)</p>
+</div>
