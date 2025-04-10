@@ -1,8 +1,8 @@
 # 👋 Olá, sou **Maicon Almeida**
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Data Science GIF" width="200" />
-</h1>
+<div style="width: 100%; overflow: hidden; margin: 0;">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Data Science Banner" style="width: 100%; height: auto; display: block;">
+</div>
 
 <p align="center">
   Transformando dados em insights poderosos 🚀<br>
