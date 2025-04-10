@@ -38,23 +38,9 @@ Sou um entusiasta de **Ciência de Dados** localizado em **São José do Rio Pre
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiconaalmeida&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconaalmeida&layout=compact&theme=dark)
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=maiconaalmeida&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
-
----
-
-## 🔧 Projetos Destacados
-
-### 1. **Predição de Preços de Casas**
-[Link para o Projeto](https://github.com/seu-link-para-projeto)
-
-Descrição curta do projeto. Usei Python e Scikit-learn para prever preços de casas com base em características específicas.
-
-### 2. **Análise de Sentimentos em Tweets**
-[Link para o Projeto](https://github.com/seu-link-para-projeto)
-
-Projeto para classificar sentimentos em tweets usando NLP e TensorFlow.
 
 ---
 
@@ -79,5 +65,4 @@ Projeto para classificar sentimentos em tweets usando NLP e TensorFlow.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn"/>
-  <p>![Visitor Count](https://profile-counter.glitch.me/maiconaalmeida/count.svg)</p>
 </div>
