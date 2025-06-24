@@ -11,7 +11,7 @@ Sou formado em Ciência da Computação e atualmente curso Ciência de Dados. Me
   <img align="center" alt="Maicon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Maicon-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Maicon-PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/power-bi.png">
-  <img align="center" alt="Maicon-UiPath" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uipath/uipath-original.svg">
+  <img align="center" alt="Maicon-UiPath" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/uipath.png">
   <img align="center" alt="Maicon-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Maicon-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
@@ -41,8 +41,8 @@ Sou formado em Ciência da Computação e atualmente curso Ciência de Dados. Me
   <a href="https://www.linkedin.com/in/aparecidoaalmeida" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href = "mailto:maiconaalmeida@protonmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:maiconaalmeida@protonmail.com">
+    <img src="https://img.shields.io/badge/-ProtonMail-%23007CFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
   </a>
 </div>
 
