@@ -1,4 +1,4 @@
-## 👋 Oii! Eu sou o Maicon Almeida — apaixonado por automação, dados e tecnologia!
+## 👋 Olá! Eu sou o Maicon Almeida — apaixonado por automação, dados e tecnologia!
 
 Sou formado em Ciência da Computação e atualmente curso Ciência de Dados. Meu foco é combinar **RPA com UiPath**, **automação com Python e C#**, e **análise de dados com Power BI**, ajudando empresas a **tomarem decisões melhores por meio da tecnologia**.
 
