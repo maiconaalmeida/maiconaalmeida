@@ -12,7 +12,11 @@ Minha trajetória é marcada pela aplicação de habilidades técnicas em um con
 
 Otimização de Queries e Escalabilidade: Experiência prática na manutenção e otimização de bases de dados Oracle , desenvolvendo consultas otimizadas e rotinas que resultaram na redução do tempo de resposta das aplicações e melhoria da escalabilidade dos sistemas.
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Eating your Contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
