@@ -11,7 +11,7 @@ Minha trajetória é marcada pela aplicação de habilidades técnicas em um con
 
 
 Otimização de Queries e Escalabilidade: Experiência prática na manutenção e otimização de bases de dados Oracle , desenvolvendo consultas otimizadas e rotinas que resultaram na redução do tempo de resposta das aplicações e melhoria da escalabilidade dos sistemas.
-![Whatsapp](https://drive.google.com/uc?export=view&id=185lUYEtJU81jhYG1x-0ruge1sOHgEvU4)
+
 
 
 
@@ -39,4 +39,4 @@ Governança e Qualidade de Dados: Habilidade comprovada em Análise de Causa Rai
 Se tiver interesse em discutir projetos de Engenharia de Dados, Otimização ou Sustentação, sinta-se à vontade para entrar em contato!
 
 Email: aalmeidamaicon@icloud.com ou whatsapp: 
-
+https://w.app/aalmeidamaicon
