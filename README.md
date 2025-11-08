@@ -4,9 +4,9 @@
 
 ### 🚀 Engenheiro de Dados | Especialista em Otimização de Sistemas | Arquiteto de Soluções em Nuvem
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aparecidoaalmeida)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalmeidamaicon@icloud.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/aalmeidamaicon)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517991390238)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Engenheiro+de+Dados;Especialista+em+Oracle;Otimiza%C3%A7%C3%A3o+de+Sistemas;5%2B+anos+de+experi%C3%AAncia" alt="Typing SVG" />
 
@@ -149,7 +149,7 @@ graph LR
 
 📧 **Email:** [aalmeidamaicon@icloud.com](mailto:aalmeidamaicon@icloud.com)
 
-💬 **WhatsApp:** [Clique aqui para conversar](https://w.app/aalmeidamaicon)
+💬 **WhatsApp:** [+55 17 99139-0238](https://wa.me/5517991390238)
 
 ---
 
