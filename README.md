@@ -139,19 +139,9 @@ graph LR
 
 ---
 
-## 💬 Vamos Conversar?
+---
 
 <div align="center">
-
-**Interessado em discutir projetos de Engenharia de Dados, Otimização ou Sustentação?**
-
-**Estou sempre aberto a novas oportunidades e colaborações!**
-
-📧 **Email:** [aalmeidamaicon@icloud.com](mailto:aalmeidamaicon@icloud.com)
-
-💬 **WhatsApp:** [+55 17 99139-0238](https://wa.me/5517991390238)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
@@ -165,6 +155,6 @@ graph LR
 
 **⭐ Se você achou meu perfil interessante, deixe uma estrela nos repositórios!**
 
-![Visitor Count](https://profile-counter.glitch.me/maiconaalmeida/count.svg)
+![](https://komarev.com/ghpvc/?username=maiconaalmeida&color=0e75b6&style=flat)
 
 </div>
